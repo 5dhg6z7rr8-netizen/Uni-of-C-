@@ -5,13 +5,11 @@ void line(char symb,int count){
         cout<<symb;
     }
      cout<<endl; 
- 
 }
+
 
 int main(){
     
-
-
     line('+', 20);
     line('@', 5);
     return 0;
