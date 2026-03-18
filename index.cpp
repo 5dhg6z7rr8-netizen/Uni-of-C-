@@ -4,8 +4,10 @@ void line(char symb,int count){
     for(int i=0;i<count;++i){
         cout<<symb;
     }
-     cout<<endl;
+     cout<<endl; 
+ 
 }
+
 int main(){
 
 
