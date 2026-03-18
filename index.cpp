@@ -12,11 +12,11 @@ int main(){
     
     line('+', 20);
     line('@', 5);
+    for(int i =0;i<5;++i){
+        cout<<1;
+    }
     return 0;
-    cout<<'hello';
-
-    
-
+   
     
     
 }
