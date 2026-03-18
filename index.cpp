@@ -12,6 +12,7 @@ int main(){
     line('+', 20);
     line('@', 5);
     return 0;
+    cout<<'hello';
 }
 
 
