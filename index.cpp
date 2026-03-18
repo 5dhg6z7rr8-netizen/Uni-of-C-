@@ -9,6 +9,7 @@ void line(char symb,int count){
 }
 
 int main(){
+    
 
 
     line('+', 20);
